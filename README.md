@@ -2,6 +2,11 @@
 
 https://github.com/mirzakhalili/Mirzakhalili-et-al--CellSystems-2020
 
+pip install wheel
+pip install VTK
+pip install PyQt5
+pip install mayavi
+
 You need NEURON software and Python to run the simulations. 
 You need to use NEURON to compile the files included in the “cells” folder to run the simulations.
 The other essential files are included in the “functions” and “classes” folders.
