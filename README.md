@@ -3,8 +3,11 @@
 https://github.com/mirzakhalili/Mirzakhalili-et-al--CellSystems-2020
 
 pip install wheel
+
 pip install VTK
+
 pip install PyQt5
+
 pip install mayavi
 
 You need NEURON software and Python to run the simulations. 
